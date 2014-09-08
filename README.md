@@ -17,6 +17,7 @@ A list of ideas for the different projects that we will build.
 - Information scrambler (mixes letters)
 - Pong
 - Minesweeper
+- Snake
 
 ### Backend-only:
 
