@@ -58,6 +58,12 @@ A list of ideas for the different projects that we will build.
 - Basic webapp architecting/wireframe application
 - Simple CRUD code-generator
 - e-commerce shoe store
+- Online survey (like google forms)
+- typing.io (lightweight) clone
+- Free SMS
+- CMS
+- Online Encryptor and Decryptor
+- Chatbot
 
 ### External APIs:
 - User-voted holiday destinations (openmap)
