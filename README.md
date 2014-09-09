@@ -18,6 +18,7 @@ A list of ideas for the different projects that we will build.
 - Pong
 - Minesweeper
 - Snake
+- WebGL Music Visualizer
 
 ### Backend-only:
 
@@ -66,6 +67,8 @@ A list of ideas for the different projects that we will build.
 - Online Encryptor and Decryptor
 - Chatbot
 - Ledger (account book)
+- Google Docs clone
+- Simple Wave clone (Accounting software)
 
 ### External APIs:
 - User-voted holiday destinations (openmap)
