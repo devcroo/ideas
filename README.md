@@ -17,6 +17,7 @@ A list of ideas for the different projects that we will build.
 - Information scrambler (mixes letters)
 - Pong
 - Minesweeper
+- Snake
 
 ### Backend-only:
 
@@ -58,6 +59,7 @@ A list of ideas for the different projects that we will build.
 - Basic webapp architecting/wireframe application
 - Simple CRUD code-generator
 - e-commerce shoe store
+- Ledger (account book)
 
 ### External APIs:
 - User-voted holiday destinations (openmap)
