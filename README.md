@@ -69,6 +69,8 @@ A list of ideas for the different projects that we will build.
 - Ledger (account book)
 - Google Docs clone
 - Simple Wave clone (Accounting software)
+- Online Job Search
+- Fundraising Platform
 
 ### External APIs:
 - User-voted holiday destinations (openmap)
