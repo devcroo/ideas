@@ -17,6 +17,7 @@ A list of ideas for the different projects that we will build.
 - Information scrambler (mixes letters)
 - Pong
 - Minesweeper
+- WebGL Music Visualizer
 
 ### Backend-only:
 
@@ -25,6 +26,8 @@ A list of ideas for the different projects that we will build.
 
 ### Hybrids/Fullstack:
 
+- Google Docs clone
+- Simple Wave clone (Accounting software)
 - Twitter (lightweight) clone
 - Instagram (lightweight) mobile-only clone
 - Simple text blogging
