@@ -61,9 +61,11 @@ A list of ideas for the different projects that we will build.
 - Online survey (like google forms)
 - typing.io (lightweight) clone
 - Free SMS
-- CMS
+- CMS (Content Management System)
 - Online Encryptor and Decryptor
 - Chatbot
+- Online Job Search
+- Fundraising Platform
 
 ### External APIs:
 - User-voted holiday destinations (openmap)
