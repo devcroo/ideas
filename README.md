@@ -19,6 +19,7 @@ A list of ideas for the different projects that we will build.
 - Minesweeper
 - Snake
 - WebGL Music Visualizer
+- Unit Converter
 
 ### Backend-only:
 
