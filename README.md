@@ -20,6 +20,7 @@ A list of ideas for the different projects that we will build.
 - Snake
 - WebGL Music Visualizer
 - Unit Converter
+- Placebo button
 
 ### Backend-only:
 
